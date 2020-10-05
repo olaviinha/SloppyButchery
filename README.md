@@ -40,7 +40,7 @@ Boards of Canada - Peacock Tail | [MP3](https://storage.googleapis.com/olaviinha
 
 ### Methodology for precision improvement
 
-1. **Drum track extraction for timing:** Stem track of drums is extracted from input audio by [Spleeter](https://github.com/deezer/spleeter) convolutional neural network to be used as a _timing track_. Timing track is used for initial estimation of beat positions, i.e. input audio track (audiofile#1) is eventually sliced according to analysis performed on the timing track (audiofile#2).
+1. **Drum track extraction for timing:** Stem track of drums is extracted from input audio by [Deezer Spleeter](https://github.com/deezer/spleeter) convolutional neural network to be used as a _timing track_. Timing track is used for initial estimation of beat positions, i.e. input audio track (audiofile#1) is eventually sliced according to analysis performed on the timing track (audiofile#2).
 
 2. **Duration refinements by lossy compression of beat interval distribution:** After initial beat tracking is performed according to timing track, beat durations are calculated from beat position distribution. Significant duration range is constricted by finding the modal value of approximated beat intervals. Currently the minimum beat duration within the significant range is eventually used as new absolute beat duration, which may increase the track tempo by a fraction of a bpm. This is likely to be optimized in the future.
 
