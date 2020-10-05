@@ -4,7 +4,7 @@ Sloppy Butchery is a collection of audio tools for [Google Colaboratory](https:/
 
 ---
 
-## Stuttering Butcher
+# Stuttering Butcher
 ⇨ [Run StutteringButcher.ipynb](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/StutteringButcher.ipynb)
 
 Stuttering Butcher creates stutter edits and glitch on an audio file.
@@ -17,7 +17,7 @@ Original audio | Stuttered | Glitched
 
 ---
 
-## Poetic Butcher
+# Poetic Butcher
 ⇨ [Run PoeticButcher.ipynb](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/PoeticButcher.ipynb)
 
 Poetic butcher is a speech-to-words slicer. It slices speech audio to individual words using [Mozilla Deepspeech](https://github.com/mozilla/DeepSpeech) 
@@ -25,7 +25,7 @@ recurrent neural network.
 
 ---
 
-## Senior Butcher
+# Senior Butcher
 ⇨ [Run SeniorButcher.ipynb](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/SeniorButcher.ipynb)
 
 Senior Butcher is a beat-slicer that improves the beat tracking precision of audio analysis libraries such as Librosa, Essentia or Aubio, particularly for the purpose of beat slicing.
