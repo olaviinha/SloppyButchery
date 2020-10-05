@@ -1,6 +1,6 @@
 # Sloppy Butchery
 
-Sloppy Butchery is a collection of audio-processing tools for [Google Colaboratory](https://colab.research.google.com/) (i.e. your browser), using [you Google Drive](https://drive.google.com/drive/my-drive) as data source and storage.
+Sloppy Butchery is a collection of audio processing tools for [Google Colaboratory](https://colab.research.google.com/) (i.e. your browser), using [you Google Drive](https://drive.google.com/drive/my-drive) as data source and storage.
 
 ---
 
