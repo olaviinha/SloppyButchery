@@ -56,4 +56,4 @@ Boards of Canada - Peacock Tail | [MP3](https://storage.googleapis.com/olaviinha
 
 ---
 
-I'm unable to place a donate button in the interwebs, because I live in Finland, where such buttons or asking for donations is totally illegal. Please **DO NOT** send any donations to [my Paypal](https://paypal.me/oinha) **especially** if you find these tools useful and want to show support. I repeat: **DO NOT DONATE.**
+**DO NOT DONATE.** It is illegal for a Finnish citizen to plea for donations, and a donate button in the interwebs is considered as such plea in Finland. So, please **DO NOT** send any donations to [my Paypal](https://paypal.me/oinha) to cover any development expenses, **especially** if you find these tools useful and want to show support. I repeat: **DO NOT DONATE.**
