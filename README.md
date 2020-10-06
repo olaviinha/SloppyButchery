@@ -51,4 +51,5 @@ Boards of Canada - Peacock Tail | [MP3](https://storage.googleapis.com/olaviinha
 ## Other utilities
 
 - [util_AudioConcat.ipynb](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/util_AudioConcat.ipynb) concatenates a directory of audio files into one or more WAV files.
+- [util_librosa_functions.ipynb](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/util_librosa_functions.ipynb) is a tiny library, or rather a cheatsheet, of audio-processing functions built mainly around Librosa and Numpy. Perhaps useful to some for development purposes.
 - [sloppyNoto.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb) is a data audiolizer residing in it's [own repository](https://github.com/olaviinha/SloppyNoto). It turns data into audio by interpreting numeric data as digital audio signal sample magnitudes.
