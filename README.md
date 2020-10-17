@@ -4,6 +4,21 @@ Sloppy Butchery is a collection of different slicing based audio processing tool
 
 ---
 
+# Sloppy Butcher
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/SloppyButcher.ipynb)
+
+Sloppy Butcher is an audio power-chopper and randomizer. It takes a directory of audio files, chops it, shuffles it, and frankensteins it up into a single audio file according to your BPM, effects and other settings.
+
+### Audio demos
+
+Description | Result
+------------ | ------------
+Directory of random full length songs. | [MP3](https://olaviinha.storage.googleapis.com/sloppyButcher-randomafricansongs.mp3)
+Directory or random full length songs. | [MP3](https://olaviinha.storage.googleapis.com/sloppyButcher-deeperhellpreset.mp3)
+Directory or random full length songs. | [MP3](https://olaviinha.storage.googleapis.com/sloppyButcher-randomfinnishsongs.mp3)
+
+---
+
 # Stuttering Butcher
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/StutteringButcher.ipynb)
 
