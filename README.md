@@ -25,7 +25,7 @@ Random full length finnish pop songs. | [MP3](https://olaviinha.storage.googleap
 ## Stuttering Butcher
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/StutteringButcher.ipynb)
 
-Stuttering Butcher creates stutter edits and glitch on an audio file.
+Stuttering Butcher applies stutter edits and glitch on an audio file according to settings.
 
 ### Audio demos
 
@@ -39,7 +39,7 @@ Original audio | Stuttered | Glitched
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/PoeticButcher.ipynb)
 
 Poetic butcher is a speech-to-words slicer. It slices speech audio to individual words using [Mozilla Deepspeech](https://github.com/mozilla/DeepSpeech) 
-recurrent neural network.
+recurrent neural network according to settings.
 
 ---
 
