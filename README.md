@@ -69,7 +69,7 @@ Boards of Canada - Peacock Tail | [MP3](https://storage.googleapis.com/olaviinha
 ## Audio Concat
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/util_AudioConcat.ipynb)
 
-Audio Concat takes a directory of audio files and glues them together into one or more WAV files.
+Audio Concat takes a directory of audio files and glues them together into one or more WAV files. This notebook was originally created to concatenate thousands of very short audio files produced by neural networks, and basically this notebook sparked the idea to create all the other notebooks in this repository.
 
 ---
 
