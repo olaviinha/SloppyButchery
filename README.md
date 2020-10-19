@@ -75,7 +75,7 @@ Audio Concat takes a directory of audio files and glues them together into one o
 
 ## Other notebooks
 
-- [util_librosa_functions.ipynb](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/util_librosa_functions.ipynb) is cheatsheet of NumPy/librosa based audio-processing functions from all of these notebooks in one place.
+- [util_librosa_functions.ipynb](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/util_librosa_functions.ipynb) is a cheatsheet of NumPy/librosa based audio-processing functions from all of these notebooks in one place. The aim is to keep these functions independent, but this is likely the case due to lack of time.
 
 ## You may also be interested in...
 - [sloppyNoto.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb) is a data audiolizer residing in it's [own repository](https://github.com/olaviinha/SloppyNoto). It turns numeric data into audio by interpreting it as digital audio signal sample magnitudes.
