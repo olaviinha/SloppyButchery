@@ -6,7 +6,7 @@ These tools are largely based on [NumPy](https://github.com/numpy/numpy), leanin
 
 ---
 
-# Sloppy Butcher
+## Sloppy Butcher
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/SloppyButcher.ipynb)
 
 Sloppy Butcher is an audio power-chopper and randomizer. It takes a directory of audio files, chops it, shuffles it, and frankensteins it up into a single audio file according to your BPM, effects and other settings.
@@ -22,7 +22,7 @@ Random full length finnish pop songs. | [MP3](https://olaviinha.storage.googleap
 
 ---
 
-# Stuttering Butcher
+## Stuttering Butcher
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/StutteringButcher.ipynb)
 
 Stuttering Butcher creates stutter edits and glitch on an audio file.
@@ -35,7 +35,7 @@ Original audio | Stuttered | Glitched
 
 ---
 
-# Poetic Butcher
+## Poetic Butcher
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/PoeticButcher.ipynb)
 
 Poetic butcher is a speech-to-words slicer. It slices speech audio to individual words using [Mozilla Deepspeech](https://github.com/mozilla/DeepSpeech) 
@@ -43,7 +43,7 @@ recurrent neural network.
 
 ---
 
-# Senior Butcher
+## Senior Butcher
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/SeniorButcher.ipynb)
 
 Senior Butcher is a beat-slicer that improves the beat tracking precision of audio analysis libraries such as Librosa, Essentia or Aubio, particularly for the purpose of beat slicing.
@@ -66,10 +66,18 @@ Boards of Canada - Peacock Tail | [MP3](https://storage.googleapis.com/olaviinha
 
 ---
 
-## Other utilities
+## Audio Concat
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/util_AudioConcat.ipynb)
 
-- [util_AudioConcat.ipynb](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/util_AudioConcat.ipynb) concatenates a directory of audio files into one or more WAV files.
-- [util_librosa_functions.ipynb](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/util_librosa_functions.ipynb) is a tiny collection (or cheatsheet) of various audio processing related functions from all of these notebooks in one place. Functions are built mainly around Librosa and Numpy, and perhaps useful to some for development purposes; no need to re-invent things like _fade out_.
+Audio Concat takes a directory of audio files and glues them together into one or more WAV files.
+
+---
+
+## Other notebooks
+
+- [util_librosa_functions.ipynb](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/util_librosa_functions.ipynb) is cheatsheet of NumPy/librosa based audio-processing functions from all of these notebooks in one place.
+
+## You may also be interested in...
 - [sloppyNoto.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb) is a data audiolizer residing in it's [own repository](https://github.com/olaviinha/SloppyNoto). It turns numeric data into audio by interpreting it as digital audio signal sample magnitudes.
 
 ---
