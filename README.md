@@ -2,7 +2,7 @@
 
 Sloppy Butchery is a collection of different slicing based audio processing tools for [Google Colaboratory](https://colab.research.google.com/) (i.e. your browser), using [your Google Drive](https://drive.google.com/drive/my-drive) as data source and storage.
 
-These tools are largely based on [NumPy](https://github.com/numpy/numpy), leaning on [librosa](https://github.com/librosa/librosa).
+These tools utilize [NumPy](https://github.com/numpy/numpy) and [librosa](https://github.com/librosa/librosa).
 
 ---
 
