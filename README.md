@@ -4,7 +4,7 @@ Sloppy Butchery is a collection of different slicing based audio processing tool
 
 While each notebook have their designated tasks, you may get more interesting results by using them together.
 
-These tools are largely based on [NumPy](https://github.com/numpy/numpy) and [librosa](https://github.com/librosa/librosa), while [FFmpeg](https://github.com/FFmpeg/FFmpeg) is used for all audio conversion tasks. Some Neural Networks are also utilized, such as [Deezer Spleeter CNN](https://github.com/deezer/spleeter) and [Mozilla Deepspeech RNN](https://github.com/mozilla/DeepSpeech).
+These tools are largely based on the capabilities of [NumPy](https://github.com/numpy/numpy) and [librosa](https://github.com/librosa/librosa), while [FFmpeg](https://github.com/FFmpeg/FFmpeg) is used for all audio conversion tasks. Some Neural Networks are also utilized, such as [Deezer Spleeter CNN](https://github.com/deezer/spleeter) and [Mozilla Deepspeech RNN](https://github.com/mozilla/DeepSpeech).
 
 ---
 
