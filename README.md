@@ -42,7 +42,7 @@ Original audio | Stuttered | Glitched
 ## Poetic Butcher
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/PoeticButcher.ipynb)
 
-Poetic butcher is a voice isolator and speech-to-words slicer. It isolates voice from audio source and/or slices it to individual words according to settings, using [Mozilla Deepspeech](https://github.com/mozilla/DeepSpeech) (recurrent neural network).
+Poetic butcher is a voice isolator and speech-to-words slicer. It isolates voice from audio source using [Deezer Spleeter](https://github.com/deezer/spleeter) (convolutional neural network) and/or slices it to individual words according to settings using [Mozilla Deepspeech](https://github.com/mozilla/DeepSpeech) (recurrent neural network).
 
 ---
 
