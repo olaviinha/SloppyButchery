@@ -82,7 +82,3 @@ Audio Concat takes a directory of audio files and glues them together into one o
 
 ## You may also be interested in...
 - [sloppyNoto.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb) is a data audiolizer residing in it's [own repository](https://github.com/olaviinha/SloppyNoto). It turns numeric data into audio by interpreting it as digital audio signal sample magnitudes.
-
----
-
-**DO NOT DONATE.** It is illegal for a Finnish citizen to plea for donations, and a donate button placed in the interwebs is interpreted as such plea by the Finnish authorities. Please DO NOT send any donations to [my Paypal](https://paypal.me/oinha) to cover any development related expenses, **especially** if you find these tools useful and want to show support. Use [this Paypal link](https://paypal.me/oinha) for anything but donations. **DO NOT DONATE.**
