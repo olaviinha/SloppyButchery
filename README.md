@@ -30,7 +30,7 @@ Autotune autotunes audio file to a) nearest note, b) a scale, c) another audio f
 Source description | Result
 ------------ | ------------
 Original | [WAV](https://storage.googleapis.com/olaviinha/github/stuttering-butcher/theroom1-dry.wav)
-Autotuned to C:maj scale | [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-butchery/theroom1-cmaj.wav)
+Autotuned flat C | [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-butchery/theroom1-cmaj.wav)
 Autotuned to [1994 Nokia Tune](https://www.youtube.com/watch?v=Vk4KK-gh0FM) | [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-butchery/theroom1-nokiatune.wav)
 Autotuned to a chord progression | [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-butchery/theroom1-chordprog.wav)
 
