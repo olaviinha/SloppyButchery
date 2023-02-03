@@ -23,7 +23,7 @@ Random full length finnish pop songs. | [MP3](https://olaviinha.storage.googleap
 ## Autotune
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/Autotune.ipynb)
 
-Autotune, surprisingly enough, autotunes audio file to a) nearest note, b) a scale, c) another audio file or d) [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv) chord progression.
+Autotune, surprisingly enough, autotunes audio files or directories of audio files to a) nearest note, b) a scale, c) another audio file or d) [Chords Guru Turbo 100a Deluxe](https://ki.gy/cv) chord progression.
 
 ### Audio demos
 
