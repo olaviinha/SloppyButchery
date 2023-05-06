@@ -2,6 +2,8 @@
 
 Sloppy Butchery is a collection of [Colab notebooks](https://colab.research.google.com/) for various audio processing tools.
 
+You may also be interested in 
+
 ---
 
 ## Sloppy Butcher
@@ -34,6 +36,13 @@ Autotuned flat C | [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-
 Autotuned to [1994 Nokia Tune](https://www.youtube.com/watch?v=Vk4KK-gh0FM) | [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-butchery/theroom1-nokiatune.wav)
 Autotuned to a chord progression | [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-butchery/theroom1-chordprog.wav)
 
+---
+## Sloppy Upsampler
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/SloppyUpsampler.ipynb)
+
+Restores audio quality of a low sample rate audio a tiny bit by traditional methods.
+
+### Audio demos coming soon...
 
 ---
 
@@ -53,7 +62,7 @@ Original audio | Stuttered | Glitched
 ## Poetic Butcher
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/PoeticButcher.ipynb)
 
-Poetic butcher is a voice isolator and speech-to-words slicer. It isolates voice from audio source using [Deezer Spleeter](https://github.com/deezer/spleeter) (convolutional neural network) and/or slices it to individual words according to settings using [Mozilla Deepspeech](https://github.com/mozilla/DeepSpeech) (recurrent neural network).
+Poetic Butcher is a voice isolator and speech-to-words slicer. It isolates voice from audio source using [Deezer Spleeter](https://github.com/deezer/spleeter) (convolutional neural network) and/or slices it to individual words according to settings using [Mozilla Deepspeech](https://github.com/mozilla/DeepSpeech) (recurrent neural network).
 
 ---
 
@@ -87,9 +96,19 @@ Audio Concat takes a directory of audio files and glues them together into one o
 
 ---
 
-## Other notebooks
+### Notebooks residing in other repositories
 
-- [util_librosa_functions.ipynb](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/util_librosa_functions.ipynb) is a cheatsheet of NumPy/librosa based audio-processing functions from all of these notebooks in one place. The aim is to keep these functions independent, but this is unlikely the case due to lack of time. Nevertheless, it may provide some aid for audio processing in Python.
+## Sloppy Noto
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
 
-## You may also be interested in...
-- [sloppyNoto.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb) is a data audiolizer residing in it's [own repository](https://github.com/olaviinha/SloppyNoto). It turns numeric data into audio by interpreting it as digital audio signal sample magnitudes.
+Sloppy Noto is a data audiolizer residing in it's [own repository](https://github.com/olaviinha/SloppyNoto). It turns numeric data into audio by interpreting it as digital audio signal sample magnitudes.
+
+## AudioLDM
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/AudioLDM_pub.ipynb)
+
+AudioLDM is a neural text-to-audio tool. Think Stable Diffusion but for audio.
+
+## Tortoise TTS
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralTextToAudio/blob/main/tortoise_tts_pub.ipynb)
+
+Tortoise TTS is a neural text-to-speech (audio) with one notable difference: you also give it an audio input of a voice, and it will produce audio with the given voice.
