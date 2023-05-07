@@ -2,8 +2,6 @@
 
 Sloppy Butchery is a collection of [Colab notebooks](https://colab.research.google.com/) for various audio processing tools.
 
-You may also be interested in 
-
 ---
 
 ## Sloppy Butcher
