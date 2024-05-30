@@ -40,7 +40,7 @@ Autotuned to a chord progression | [WAV](https://storage.googleapis.com/olaviinh
 
 Restores audio quality of a low sample rate audio a tiny bit by traditional methods.
 
-### Audio demos coming soon...
+https://github.com/olaviinha/SloppyButchery/assets/50331907/ad26a1ba-3802-4bfa-97ae-716a8b26bb5a
 
 ---
 
