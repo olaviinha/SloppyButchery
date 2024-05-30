@@ -47,7 +47,7 @@ https://github.com/olaviinha/SloppyButchery/assets/50331907/ad26a1ba-3802-4bfa-9
 ## Stuttering Butcher
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/StutteringButcher.ipynb)
 
-Stuttering Butcher applies stutter edits and glitch on an audio file according to settings.
+Stuttering Butcher applies stutter edits and glitch on an audio file according to settings. Works by repeating N grains of odd zero-crossings of the audio signal — does not account for tempo, rhythmic patterns or "grid".
 
 ### Audio demos
 
