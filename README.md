@@ -69,7 +69,7 @@ Poetic Butcher is a voice isolator and speech-to-words slicer. It isolates voice
 
 Senior Butcher is a beat-slicer that improves the beat tracking precision of audio analysis libraries such as Librosa, Essentia or Aubio, particularly for the purpose of beat slicing.
 
-### Audio demos
+### Audio demos (audio clip sliced by beat, shuffled, and put back together in random order)
 
 Track | Librosa | Butcher, _ours_
 ------------ | ------------ | ------------- |
