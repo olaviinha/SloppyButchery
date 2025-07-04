@@ -38,7 +38,7 @@ Autotuned to a chord progression | [WAV](https://storage.googleapis.com/olaviinh
 ## Sloppy Upsampler
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyButchery/blob/main/SloppyUpsampler.ipynb)
 
-Restores audio quality of a low sample rate audio a tiny bit by traditional methods.
+Takes low sample rate audio and simulates higher quality by traditional methods.
 
 https://github.com/olaviinha/SloppyButchery/assets/50331907/ad26a1ba-3802-4bfa-97ae-716a8b26bb5a
 
